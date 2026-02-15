@@ -5,7 +5,7 @@ Morphe Builds
 
 Morphe is a variant of the Revanced Original focused on maintaining ad removal features while adding greater support for current versions of YouTube and YouTube Music.
 
-Get the [latest Morphe release](https://github.com/j-hc/revanced-magisk-module/releases).
+Get the [latest Morphe release](https://github.com/mandyoquinha-hash/YouTube-and-YouTube-Music-Morphe/releases/tag/20260217).
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
